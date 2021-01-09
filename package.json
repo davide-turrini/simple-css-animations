@@ -1,0 +1,22 @@
+{
+  "name": "simple-css-animations",
+  "version": "0.1.0",
+  "description": "A simple css animation helper (animista based)! ",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davide-turrini/simple-css-animations.git"
+  },
+  "keywords": [
+    "simple",
+    "css",
+    "animations",
+    "animista"
+  ],
+  "author": "davide-turrini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davide-turrini/simple-css-animations/issues"
+  },
+  "homepage": "https://github.com/davide-turrini/simple-css-animations#readme"
+}
